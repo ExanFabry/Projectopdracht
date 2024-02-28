@@ -115,6 +115,8 @@
     "legalInCommander": true,
     "date": "2024-02-15",
     "image": "https://github.com/ExanFabry/Projectopdracht/blob/master/assets/images/card_sol_ring.jpg?raw=true",
+    "color": "colorless",
+    "types": ["artifact"],
     "set": {
       "id": 7,
       "name": "Commander 2017",
